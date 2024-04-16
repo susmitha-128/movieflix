@@ -1,32 +1,32 @@
 let coverEle = [
     {
         src:"images/1.jpg",
-        name:"t",
+        name:"The Bear",
         description:"Action Adventure Fantasy A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
     },
     {
         src:"images/2.jpg",
-        name:"h",
+        name:"Inside Out",
         description:"Action Adventure Fantasy A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
     },
     {
         src:"images/3.jpg",
-        name:"e",
+        name:"Cursed",
         description:"Action Adventure Fantasy A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
     },
     {
         src:"images/4.jpg",
-        name:"b",
+        name:"Fantastic Beasts ",
         description:""
     },
     {
         src:"images/5.jpg",
-        name:"e",
+        name:"Nun",
         description:""
     },
     {
         src:"images/1.jpg",
-        name:"a",
+        name:"Voice",
         description:""
     },
 ]
